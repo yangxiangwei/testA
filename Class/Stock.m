@@ -7,7 +7,7 @@
 //
 
 #import "Stock.h"
-
+//1.0
 @implementation Stock
 
 @end
